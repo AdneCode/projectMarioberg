@@ -62,7 +62,7 @@ import("gameplay/event_cues.scar")
 import("gameplay/currentageui.scar")
 
 --Import Marioberg scripts
-
+import("mariobergFunctions/gamefunctions.scar")
 
 
 
